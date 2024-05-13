@@ -2928,3 +2928,9 @@ Google map
   }
 }
 
+@media (max-width: 1024px) {
+ .video-player,
+ .video-controls-box {
+    display: none;
+  }
+}
