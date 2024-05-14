@@ -246,7 +246,7 @@ a,
 .bg-dark-30 .alt-module-subtitle h5,
 .bg-dark-60 .alt-module-subtitle h5,
 .bg-dark-90 .alt-module-subtitle h5 {
-  color: #1a8000;
+  color: #9c2b18;
 }
 
 .bg-dark {
@@ -579,7 +579,7 @@ a,
   text-align: center;
   line-height: 28px;
   font-size: 22px;
-  color: #1f9900;
+  color: #9c2b18;
   opacity: 0.6;
   border-radius: 2px;
 }
@@ -601,7 +601,7 @@ a,
 
 .video-controls-box a {
   display: inline-block;
-  color: #1f9900;
+  color: #9c2b18;
   margin: 0 5px 0 0;
 }
 
@@ -893,6 +893,7 @@ blockquote {
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
+  color: #9c2b18;
 }
 
 .font-serif {
@@ -929,7 +930,7 @@ blockquote {
   text-align: center;
   font-size: 32px;
   margin-bottom: 20px;
-  color: #1a8000;	
+  color: #9c2b18;	
 }
 
 .module-title + .module-subtitle {
@@ -1269,12 +1270,12 @@ General Styles - Owlcarousel
   letter-spacing: 4px;
   font-weight: 400;
   font-size: 22px;
-  color: #1f9900;
+  color: #9c2b18;
 }
 
 .navbar-custom .nav li > a {
   position: relative;
-  color: #1f9900;
+  color: #9c2b18;
 }
 
 .navbar-custom .dropdown-menu > li > a {
@@ -1555,7 +1556,7 @@ Google map
 .alt-features-icon {
   line-height: 1.2;
   font-size: 42px;
-  color: #1a8000;
+  color: #9c2b18;
 }
 
 .features-title,
@@ -1564,7 +1565,7 @@ Google map
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 14px;
-  color: #1a8000;
+  color: #9c2b18;
   margin: 16px 0 15px;
 }
 
@@ -1669,7 +1670,7 @@ Google map
 
 .team-name {
   font-size: 14px;
-  color: #111;
+  color: #9c2b18;
 }
 
 .team-role {
@@ -1831,7 +1832,7 @@ Google map
 .video-box-icon > a > span {
   line-height: 1.8;
   font-size: 40px;
-  color: #1f9900;
+  color: #9c2b18;
 }
 
 .video-title {
@@ -2935,3 +2936,4 @@ Google map
     display: none;
   }
 }
+
