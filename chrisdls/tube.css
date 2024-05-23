@@ -17,6 +17,7 @@ body {
   font: 400 16px/1.8 "Open Sans", sans-serif;
   color: #4f5763;
   -webkit-font-smoothing: antialiased;
+ cursor: url('https://kurziokode.github.io/curs2.png'), auto;	
 }
 
 img {
