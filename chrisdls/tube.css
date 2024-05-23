@@ -9,6 +9,7 @@ html {
   -ms-overflow-style: scrollbar;
     scrollbar-width: auto;
     scrollbar-color: #ca7000 transparent;	
+ cursor: url('https://kurziokode.github.io/curs2.png'), auto;	
 }
 
 body {
